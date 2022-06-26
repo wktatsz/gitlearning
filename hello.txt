@@ -16,3 +16,4 @@ hello git! hello shopee master test
 hello git! hello shopee hot-fix test
 1111111111
 dev branch
+test git pull
