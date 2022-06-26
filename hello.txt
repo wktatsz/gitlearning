@@ -18,3 +18,4 @@ hello git! hello shopee hot-fix test
 dev branch
 add sth new
 nice to meet you
+test git pull
